@@ -32,5 +32,8 @@
     "tempy": "^2.0.0",
     "util": "^0.12.4",
     "weky": "^3.1.8"
+  },
+  "scripts": {
+"start": "node main.js"
   }
 }
